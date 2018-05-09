@@ -3,4 +3,13 @@ name = "shogi"
 version = "0.1.0"
 authors = ["bond <bond00728tm@gmail.com>"]
 
-[dependencies]
+
+#[[bin]]
+#name = "Shogi"
+
+#[dependencies.conrod]
+#version = "0.53.0"
+#features = ["glium", "winit"]
+
+#[dependencies]
+#find_folder = "*"

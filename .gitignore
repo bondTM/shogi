@@ -1,2 +1,5 @@
 /target/
 **/*.rs.bk
+src/cFunction/test.exe
+src/cFunction/testDriver.o
+src/cFunction/pieceControl.o
